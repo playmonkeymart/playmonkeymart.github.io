@@ -1,0 +1,12 @@
+# H5 Game Land - LLMs Guide
+
+Welcome to the H5 Game Land index directory. This site is designed for playing free HTML5 online puzzle and casual games directly in the browser with no downloads.
+
+## Primary Pages & URLs
+- Homepage: `/` - Features the main game of the site.
+- Category - Block Games: `/games/block-games` - Collection of block placement puzzles.
+- Category - Casual Games: `/games/casual-games` - Rhythm, arcade, and casual games.
+
+## Games Collection
+- **Block Blast**: (Slug: `block-blast`) - A classic 8x8 grid block puzzle game with no rotation, classic & adventure modes. Play at `/game/block-blast`.
+- **Friday Night Funkin**: (Slug: `friday-night-funkin`) - Popular open-source music rhythm game. Play at `/game/friday-night-funkin`.
